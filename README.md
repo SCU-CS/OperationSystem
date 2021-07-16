@@ -1,9 +1,8 @@
-# 仓库介绍
-The template of course repository
+# 操作系统原理
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SCU-CS/Course-Template)
-![GitHub issues](https://img.shields.io/github/issues/SCU-CS/Course-Template)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SCU-CS.Course-Template)
+![GitHub repo size](https://img.shields.io/github/repo-size/SCU-CS/OperationSystem)
+![GitHub issues](https://img.shields.io/github/issues/SCU-CS/OperationSystem)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SCU-CS.OperationSystem)
 [![Generate-Power-With-Love](https://img.shields.io/badge/Generate--Power--With-Love-red)](https://github.com/SCU-CS/Contributors)
 
 ## 免责

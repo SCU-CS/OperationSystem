@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "compare": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp",
+        "fstream": "cpp"
+    }
+}
