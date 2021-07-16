@@ -11,8 +11,8 @@
 - 操作系统导论(OSTEP)
   - [原版](https://pages.cs.wisc.edu/~remzi/OSTEP/book-electronic.html)
   - [中文版](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese)
-- [xv6](https://pdos.csail.mit.edu/6.828/2012/xv6/)<http://pdos.csail.mit.edu/6.828/2012/xv6/book-rev7.pdf>
-  - 上方链接为 **rev7**
+- [xv6](https://pdos.csail.mit.edu/6.828/2012/xv6/)
+  - [**rev7**](http://pdos.csail.mit.edu/6.828/2012/xv6/book-rev7.pdf)
   - PDF下有 **rev8**
 - [xv6中文](https://github.com/ranxian/xv6-chinese)
 ## 笔记
