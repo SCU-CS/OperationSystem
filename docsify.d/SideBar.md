@@ -1,0 +1,8 @@
+- [首页](README.md)
+- [课程信息](CourseInfo/README.md)
+- [指导信息](guide/README.md)
+- [PPT](ppt/README.md)
+- 作业
+  - [平时作业](assignment/README.md)
+  - [大作业](assignment/README?id=大作业)
+- [课设/实验](lab/README.md)
