@@ -10,6 +10,7 @@
 
 其他课本信息：
 - 汤小丹
+- ISBN:9787560633503
 - 这玩意儿有俩封面，可能只是印刷版次不同
 - 课本信息更新时间：2021.7
 - [课后答案-CSDN](https://blog.csdn.net/zhang_hongli_li/article/details/48623285)
