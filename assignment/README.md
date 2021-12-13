@@ -11,11 +11,13 @@ TimeSlice 文件夹
 主要思路是开 CPU 核心数+1个线程，测量大于 1ms 的间隔，测量多次，算平均时间。
 
 > StackOverflow上认为是不可行的 不可能从构建软件层面去测量
+### 实现固定的CPU占用
+
+CPUConquer 文件夹
+
+主要思路就是大概在一个时间片时间下，分 `percent` 的时间busy-wait，剩余时间放弃CPU占用，休眠等待
+
 ## 大作业
 
 应该是不会有的，总不至于让你写个 Kernel 吧
-
-### Demo
-
->   The Description of Demo
 
